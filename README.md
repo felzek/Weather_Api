@@ -1,4 +1,4 @@
-# Weather API Data Mining :thunder_cloud_and_rain:
+# Weather API Data Mining :sunny: :cloud: :snowflake:
 
 
 

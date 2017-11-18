@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Weather API Data Mining :weather:
 
 
@@ -17,3 +18,6 @@
   - Graphical Analysis of Wind Speed (mph) vs. Latitude of 500 Cities Around the World
   - Insight into the relation between weather and the Location of the City on the Equator
   - Data Frame Containing 500 Cities and Their Weather
+=======
+# Deep Data Mining in to the Weather API for Regression Analysis Towards Different Factors and their relation towards Latitude.
+>>>>>>> 92e4401719d28ad57af6ed2d2b79ce3ea9e5fa28

@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-## Weather API Data Mining :weather:
+## Weather API Data Mining 
 
 
 
@@ -20,4 +19,4 @@
   - Data Frame Containing 500 Cities and Their Weather
 =======
 # Deep Data Mining in to the Weather API for Regression Analysis Towards Different Factors and their relation towards Latitude.
->>>>>>> 92e4401719d28ad57af6ed2d2b79ce3ea9e5fa28
+

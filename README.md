@@ -16,6 +16,6 @@
   - Graphical Analysis of Cloudiness (%) vs. Latitude of 500 Cities Around the World
   - Graphical Analysis of Wind Speed (mph) vs. Latitude of 500 Cities Around the World
   - Insight into the relation between weather and the Location of the City on the Equator
-  - Data Frame Containing 500 Cities and Their Weather
+  - Data Frame Containing 500 Cities and Their Exact Latitude and Longitude
 
 
